@@ -1,4 +1,2 @@
-scott-maddox.github.io
-======================
-
-user pages
+Scott Maddox's Github Pages
+===========================
